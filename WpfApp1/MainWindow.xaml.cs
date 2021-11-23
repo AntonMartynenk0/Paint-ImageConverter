@@ -36,7 +36,6 @@ namespace WpfApp1
             shadowEffect.Color = Colors.Black;
             shadowEffect.Opacity = 0.2;
             viewBox.Effect = shadowEffect;
-            
         }
 
         private void saveBtn_Click(object sender, RoutedEventArgs e)    //сохранение в графичесий файл

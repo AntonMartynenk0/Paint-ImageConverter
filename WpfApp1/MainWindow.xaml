@@ -162,7 +162,6 @@
                         <DrawingAttributes x:Name="strokeAttr" Width="2" Height="2" Color="black"/>
                     </InkCanvas.DefaultDrawingAttributes>
                     <Image x:Name="image" HorizontalAlignment="Left" VerticalAlignment="Top" Source="{x:Null}" />
-                    <Rectangle x:Name="rec1" Fill="Black" HorizontalAlignment="Right" Height="30" VerticalAlignment="Bottom" Width="30"/>
                 </InkCanvas>
             </Viewbox>
         </ScrollViewer>
